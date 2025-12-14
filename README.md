@@ -76,7 +76,8 @@ CALCULATE(
 ## 4. Key Visualizations
 1. Line Chart: Shows annual trends by Continent.
 2. Bar Chart: Visualizes the current ranking of Continents by average happiness score
-3. Matrix: Using YOY, countries can be compared to their average
+3. Matrix: Using YOY, countries can be compared to global average
 4. Slicer: It makes visualization dynamic, country can be selected based on preference
 
-   ![Final Dashboard Overview]())
+   ![Final Dashboard Overview](images/charts.jpg))
+   
